@@ -1,0 +1,3 @@
+Nether Hub:-55,114,68::0:1:270.0:-56,116,72:nethergate_2.gate:Spawn:Broeder:Broeder:false:true:false:SM1_nether:false:false:false:false:false:false
+AezNether:821,75,534::-1:0:0.0:818,77,533:nethergate.gate:AezHub2:Aez:Aezure:false:true:false:SM1_nether:false:false:false:false:false:false
+1337:-59,114,150::1:0:180.0:-59,116,151:nethergate_2.gate:Iceland:Secretopia:jediman128:false:true:false:SM1_nether:false:false:false:false:false:false

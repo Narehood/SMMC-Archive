@@ -1,0 +1,64 @@
+Mushroom:1571,76,-2448:1571,76,-2444:0:-1:90.0:1572,78,-2448:nethergate_2.gate:Antarctica:[Public]:chaoman12345:false:false:false:SM1:false:false:false:false:false:false
+AezHub:-417,214,204::0:-1:90.0:-416,216,201:nethergate.gate:TowerMid:Aez:Aezure:false:true:false:SM1:false:false:false:false:false:false
+AezHub2:-419,214,199::-1:0:0.0:-422,216,198:nethergate.gate:AezNether:Aez:Aezure:false:true:false:SM1:false:false:false:false:false:false
+Desert PC:4206,66,1646::0:1:270.0:4205,68,1650:nethergate_2.gate:PC Desert:Broeder:Broeder:false:true:false:SM1:false:false:false:false:false:false
+OilRig:603,79,39::0:-1:90.0:604,81,35:nethergate_2.gate:OilRigMine:Pleco:mr_pleco:false:true:false:SM1:false:false:false:false:false:false
+OilRigMine:-3998,8,4501::-1:0:0.0:-4002,10,4500:nethergate_2.gate:OilRig:Pleco:SMC_Admin:false:true:false:SM1:false:false:false:false:false:false
+2012Spawn:2,65,-15::-1:0:0.0:-2,67,-16:nethergate_2.gate:Sm1Spawn:Server:SMC_Admin:false:true:false:SM1:true:false:false:false:false:false
+AezSand:4206,66,1654::0:1:270.0:4205,68,1657:nethergate.gate:AezDesert:Aez:Aezure:false:true:false:SM1:false:false:false:false:false:false
+Spawn:-35,77,-147::-1:0:0.0:-39,79,-148:nethergate_2.gate:Nether Hub:Broeder:Broeder:false:true:false:SM1:false:false:false:false:false:false
+MrPRig:599,79,35::0:1:270.0:598,81,39:nethergate_2.gate:MrPHome:mr_pleco:mr_pleco:false:true:true:SM1:true:false:false:false:false:false
+AezHub1:-422,214,206::1:0:180.0:-419,216,207:nethergate.gate:AezOutpost:Aez:Aezure:false:true:false:SM1:false:false:false:false:false:false
+Plane:6702,190,-5641:6699,190,-5641:1:0:180.0:6702,192,-5640:nethergate.gate:Home:AF:iFrenk:false:false:false:SM1:false:false:false:false:false:false
+Home:6773,52,-5638:6770,52,-5638:1:0:180.0:6773,54,-5637:nethergate.gate:Plane:AF:iFrenk:false:false:false:SM1:false:false:false:false:false:false
+TowerMid:-458,155,204::0:-1:90.0:-457,157,201:nethergate.gate:AezHub:Aez:Aezure:false:true:false:SM1:false:false:false:false:false:false
+TowerTop:-460,218,201::0:1:270.0:-461,220,204:nethergate.gate:TowerBase:Aez:Aezure:false:true:false:SM1:false:false:false:false:false:false
+TowerBase:-462,112,200::-1:0:0.0:-465,114,199:nethergate.gate:TowerTop:Aez:Aezure:false:true:false:SM1:false:false:false:false:false:false
+AezOutpost:2870,66,-1442::1:0:180.0:2873,68,-1441:nethergate.gate:AezHub1:Aez:Aezure:false:true:false:SM1:false:false:false:false:false:false
+H:784,66,-3287::-1:0:0.0:784,68,-3288:nethergate.gate:NH:d6s:d6s:false:true:false:SM1:true:false:false:false:false:false
+-oldhome-:-441,70,1546:-437,70,1546:-1:0:0.0:-441,72,1545:nethergate_2.gate:>newhome<:(akias):Akias_:false:false:false:SM1:false:false:false:false:false:false
+>newhome<:-18049,70,-5878:-18049,70,-5882:0:-1:90.0:-18048,72,-5882:nethergate_2.gate:-oldhome-:(akias):Akias_:false:false:false:SM1:false:false:false:false:false:false
+PixelCity:260,66,3554::1:0:180.0:264,68,3555:nethergate_2.gate:Mine:Pootis:jediman128:false:true:false:SM1:true:false:false:false:false:false
+jediblack:257,66,3554::1:0:180.0:257,68,3555:nethergate_2.gate:blackjedi:manoffin:jediman128:false:true:false:SM1:true:false:false:false:false:false
+blackjedi:-748,70,-90:-744,70,-90:1:0:180.0:-744,72,-89:nethergate_2.gate:jediblack:manoffin:blackoffin:false:false:false:SM1:true:false:false:false:false:false
+Elysium:-465,242,200:-462,242,200:-1:0:0.0:-465,244,199:nethergate.gate:Tower1:Aez:Aezure:false:false:true:SM1:false:false:false:false:false:false
+Tower1:-465,218,199:-462,218,199:1:0:180.0:-462,220,200:nethergate.gate:Elysium:Aez:Aezure:false:false:true:SM1:false:false:false:false:false:false
+Mine:-5613,10,192::1:0:180.0:-5609,12,193:nethergate_2.gate:PixelCity:Pootis:jediman128:false:true:false:SM1:true:false:false:false:false:false
+Kirst:156,85,-1156::0:1:270.0:155,87,-1152:nethergate_2.gate:Mike:Pootis:jediman128:false:true:false:SM1:true:false:false:false:false:false
+yddet_5:7173,65,-650::-1:0:0.0:7169,67,-651:nethergate_2.gate:near spawn:network:yddet_5:false:true:false:SM1:true:false:false:false:false:false
+OldTown:1688,64,847::0:-1:90.0:1689,66,843:nethergate_2.gate:NewTown:Pootis:jediman128:false:true:false:SM1:true:false:false:false:false:false
+near spawn:-147,73,-3::1:0:180.0:-143,75,-2:nethergate_2.gate:yddet_5:network:mr_pleco:false:true:false:SM1:true:false:false:false:false:false
+West1:-4,252,-4::0:1:270.0:-5,254,0:nethergate_2.gate:West2:West:jediman128:false:true:false:SM1:true:false:false:false:false:false
+East1:4,252,0::0:-1:90.0:5,254,-4:nethergate_2.gate:East2:East:jediman128:false:true:false:SM1:true:false:false:false:false:false
+East:4,249,-998::0:-1:90.0:5,251,-1002:nethergate_2.gate:East1:North:jediman128:false:true:false:SM1:true:false:false:false:false:false
+Arcanum:-245,59,83::-1:0:0.0:-249,61,82:nethergate_2.gate:Underheim:Aez:Aezure:false:true:false:SM1:false:false:false:false:false:false
+Underheim:-260,61,62::0:1:270.0:-261,63,66:nethergate_2.gate:Arcanum:Aez:Aezure:false:true:false:SM1:false:false:false:false:false:false
+NewTown:220,45,3347::0:1:270.0:219,47,3351:nethergate_2.gate:OldTown:Pootis:jediman128:false:true:false:SM1:true:false:false:false:false:false
+Mike:231,45,3347::0:-1:90.0:232,47,3347:nethergate_2.gate:Kirst:Pootis:jediman128:false:true:false:SM1:true:false:false:false:false:false
+X0 Z1k:-2,251,997::-1:0:0.0:-2,253,996:nethergate_2.gate:South:South:jediman128:false:true:false:SM1:true:false:false:false:false:false
+South:2,252,2::1:0:180.0:2,254,3:nethergate_2.gate:X0 Z1k:South:jediman128:false:true:false:SM1:true:false:false:false:false:false
+ZZZZ:2,249,-1004::-1:0:0.0:-2,251,-1005:nethergate_2.gate:ZZZZZ:ZZZZZZ:mr_pleco:false:true:false:SM1:true:false:false:true:false:false
+X0 Z1 S:2,249,-997::1:0:180.0:2,251,-996:nethergate_2.gate:X0 Z0 N:adminpootis:jediman128:false:true:false:SM1:true:false:false:true:false:false
+X0 Z0 N:-2,252,-6::-1:0:0.0:-2,254,-7:nethergate_2.gate:X0 Z1 S:adminpootis:jediman128:false:true:false:SM1:true:false:false:true:false:false
+X-1 Z-1 N:-2,251,1005::1:0:180.0:2,253,1006:nethergate_2.gate:X-1 Z-2 S:adminblah:mr_pleco:false:true:false:SM1:true:false:false:true:false:false
+System:-11,65,4::-1:0:0.0:-15,67,3:nethergate_2.gate:X0 Z0 N:adminpootis:jediman128:false:true:false:SM1:true:false:false:true:false:false
+shop2:-1080,68,1645::-1:0:0.0:-1080,70,1644:nethergate_2.gate:home:yddet:jediman128:false:true:false:SM1:true:false:false:false:false:false
+Forge:16,58,3802::1:0:180.0:20,60,3803:nethergate_2.gate:Hub:Travis:jediman128:false:true:false:SM1:true:false:false:false:false:false
+Hub:220,45,3358::0:1:270.0:219,47,3358:nethergate_2.gate:Forge:Travis:jediman128:false:true:false:SM1:true:false:false:false:false:false
+NavalYard:1389,18,1666::1:0:180.0:1389,20,1667:nethergate_2.gate:Hub:Pootis:jediman128:false:true:false:SM1:true:false:false:false:false:false
+Hub:231,45,3358::0:-1:90.0:232,47,3354:nethergate_2.gate:NavalYard:Pootis:jediman128:false:true:false:SM1:true:false:false:false:false:false
+Utopia:-914,79,3022::0:-1:90.0:-913,81,3018:nethergate_2.gate:Hub:Moosh:jediman128:false:true:false:SM1:true:false:false:false:false:false
+Hub:231,45,3361::0:-1:90.0:232,47,3361:nethergate_2.gate:Utopia:Moosh:jediman128:false:true:false:SM1:true:false:false:false:false:false
+Adventure:-5206,18,94::0:-1:90.0:-5205,20,90:nethergate_2.gate:Hub:IceCube:jediman128:false:true:false:SM1:true:false:false:false:false:false
+Hub:220,45,3361::0:1:270.0:219,47,3365:nethergate_2.gate:Adventure:IceCube:jediman128:false:true:false:SM1:true:false:false:false:false:false
+MrPHome:-2447,53,-834::-1:0:0.0:-2451,55,-835:nethergate_2.gate:MrPNether:mr_pleco:mr_pleco:false:true:false:SM1:true:false:false:false:false:false
+MrPNether:-6997,95,-6469::-1:0:0.0:-7001,97,-6470:nethergate_2.gate:MrPHome:mr_pleco:mr_pleco:false:true:false:SM1:true:false:false:false:false:false
+JungleHome:-8675,52,5480::0:-1:90.0:-8674,54,5476:nethergate_2.gate:MrPlecoHome:mr_pleco:mr_pleco:false:true:false:SM1:true:false:false:false:false:false
+MrPlecoHome:-2452,53,-834::-1:0:0.0:-2456,55,-835:nethergate_2.gate:JungleHome:mr_pleco:mr_pleco:false:true:false:SM1:true:false:false:false:false:false
+blackoffin:4325,89,29785:4325,89,29781:0:-1:90.0:4326,91,29781:nethergate_2.gate:1.6:castle:blackoffin:false:false:false:SM1:false:false:false:false:false:false
+blackoffin:-749,70,-96:-749,70,-92:0:1:270.0:-750,72,-92:nethergate_2.gate:castle:1.6:blackoffin:false:false:false:SM1:false:false:false:false:false:false
+1.6:-742,70,-92:-742,70,-96:0:-1:90.0:-741,72,-96:nethergate_2.gate:blackoffin:castle:blackoffin:false:false:false:SM1:false:false:false:false:false:false
+United1.5:1758,73,-327::1:0:180.0:1762,75,-326:nethergate_2.gate:United1.6:Forces:Brodstah:false:true:false:SM1:true:false:false:false:false:false
+United1.6:16923,66,-2299::1:0:180.0:16927,68,-2298:nethergate_2.gate:United1.5:Forces:Brodstah:false:true:false:SM1:true:false:false:false:false:false
+Temp1:-5614,70,134::-1:0:0.0:-5614,72,133:nethergate_2.gate:Temp2:Transfer:jediman128:false:true:false:SM1:true:false:false:false:false:false
+Temp2:386,65,3688::-1:0:0.0:386,67,3687:nethergate_2.gate:Temp1:Transfer:jediman128:false:true:false:SM1:true:false:false:false:false:false
